@@ -16,12 +16,12 @@ The goal is to uncover insights about *sales performance, category trends, profi
 
 ## 📂 Project Structure
 
-
+```
 ├── data.csv           # Dataset
-├── analysis.py        # Python script for EDA & visualizations
+├── Main.ipy        # Python script for EDA & visualizations
 ├── README.md          # Project documentation
 
-
+```
 
 ---
 
@@ -45,22 +45,22 @@ The goal is to uncover insights about *sales performance, category trends, profi
 
 ## 🚀 How to Run
 1. Clone this repository:
-bash
-   git clone https://github.com/yourusername/sales-analysis.git
+```bash
+   git clone https://github.com/Mahitechlead/Sales-Profit-Analysis
    cd sales-analysis
-
+```
 
 2. Install dependencies:
 
-bash
-   pip install pandas matplotlib seaborn
+```bash
+   pip install pandas matplotlib 
    
-
+```
 3. Run the script:
 
-   bash
-   python analysis.py
-   
+```bash
+   jupyter notebook Main.ipynb
+  ```
 
 ---
 
