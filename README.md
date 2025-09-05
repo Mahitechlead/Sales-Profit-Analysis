@@ -87,4 +87,3 @@ The goal is to uncover insights about *sales performance, category trends, profi
 * *Mahi Saxena*
 * 📧 [mahi.cs.tech@gmail.com](mailto:mahi.cs.tech@gmail.com)
 * 🌐 [GitHub Profile](https://github.com/Mahitechlead)
-* 
